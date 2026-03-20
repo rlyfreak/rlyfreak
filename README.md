@@ -1,16 +1,30 @@
 ## Hi there 👋
+🇷🇺
+Обо мне
+Backend-разработчик (C# / .NET).
+Студент 3 курса (Информационные системы и программирование).
 
-<!--
-**rlyfreak/rlyfreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Сейчас:
+курсовой проект: бонусная система (логика, архитектура)
+усиление базы backend (C#, базы данных, API)
 
-Here are some ideas to get you started:
+Стек:
+C#, .NET, WinForms, SQL, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Связь:
+Telegram — https://t.me/rlyfreak000
+
+🇺🇸
+About me
+Backend-focused developer (C# / .NET).
+Studying Information Systems & Programming (3rd year).
+
+Currently working on:
+course project: bonus system (backend logic, architecture)
+strengthening backend fundamentals (C#, databases, APIs)
+
+Stack:
+C#, .NET, WinForms, SQL, Git
+
+Contact:
+Telegram — https://t.me/rlyfreak000
