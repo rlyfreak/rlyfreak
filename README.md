@@ -1,6 +1,6 @@
 ## Hi there 👋
 🇷🇺
-Обо мне
+Обо мне:
 Backend-разработчик (C# / .NET).
 Студент 3 курса (Информационные системы и программирование).
 
@@ -15,7 +15,7 @@ C#, .NET, WinForms, SQL, Git
 Telegram — https://t.me/rlyfreak000
 
 🇺🇸
-About me
+About me:
 Backend-focused developer (C# / .NET).
 Studying Information Systems & Programming (3rd year).
 
