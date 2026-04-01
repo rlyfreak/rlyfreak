@@ -9,7 +9,7 @@ Backend-разработчик (C# / .NET).
 усиление базы backend (C#, базы данных, API)
 
 Стек:
-C#, .NET, WinForms, SQL, Git
+C#, .NET, .NET MAUI, SQL, Git
 
 Связь:
 Telegram — https://t.me/rlyfreak000
@@ -24,7 +24,7 @@ course project: bonus system (backend logic, architecture)
 strengthening backend fundamentals (C#, databases, APIs)
 
 Stack:
-C#, .NET, WinForms, SQL, Git
+C#, .NET, .NET MAUI, SQL, Git
 
 Contact:
 Telegram — https://t.me/rlyfreak000
