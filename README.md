@@ -1,25 +1,43 @@
+<div align="center">
+
 # rlyfreak
 
 **Backend developer · C# / .NET · Python / FastAPI**
 
-🇷🇺 Пишу серверные приложения и API. Работаю с базами данных, контейнерами и понятной документацией.
+🇷🇺 Создаю серверные приложения и API: от логики и данных до запуска в контейнерах.  
+🇬🇧 I build backend applications and APIs, from business logic and data to containerized deployment.
 
-🇬🇧 I build backend applications and APIs, working with databases, containers, and clear documentation.
+</div>
 
-### Стек / Stack
+### Инструменты / Toolbox
 
-<kbd>C# / .NET</kbd> <kbd>Python / FastAPI</kbd> <kbd>Docker</kbd> <kbd>SQL</kbd> <kbd>Git</kbd>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" alt="C#" /><br />C#</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="42" alt=".NET" /><br />.NET</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" alt="Python" /><br />Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" alt="FastAPI" /><br />FastAPI</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" alt="Docker" /><br />Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" alt="SQL Server" /><br />SQL Server</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git" /><br />Git</td>
+  </tr>
+</table>
+
+Также / Also: **ASP.NET Core · .NET MAUI · SQL**
 
 ### Проекты / Projects
 
 - **[CYBERARENA](https://github.com/rlyfreak/CYBERARENA)** — локальная CTF-платформа для обучения кибербезопасности на Python/FastAPI и Docker. / A self-hosted CTF platform for cybersecurity training, built with Python/FastAPI and Docker.
 - **[BonusApp](https://github.com/rlyfreak/BonusApp)** — прототип приложения для бонусных карт с backend на ASP.NET Core и клиентом .NET MAUI. / A loyalty-card app prototype with an ASP.NET Core backend and a .NET MAUI client.
 
-### Активность / Activity
+### GitHub в цифрах / GitHub at a glance
 
-Актуальная статистика вкладов — в [профиле GitHub](https://github.com/rlyfreak). Последние публичные изменения — в [истории CYBERARENA](https://github.com/rlyfreak/CYBERARENA/commits/main/).
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rlyfreak&amp;theme=github_dark" height="170" alt="GitHub statistics for rlyfreak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rlyfreak&amp;theme=github_dark" height="170" alt="Languages by commits in public GitHub repositories" />
+</p>
 
-The live contribution graph is on my [GitHub profile](https://github.com/rlyfreak). See [CYBERARENA commits](https://github.com/rlyfreak/CYBERARENA/commits/main/) for recent public work.
+[Активность / Activity](https://github.com/rlyfreak) · [Коммиты CYBERARENA / CYBERARENA commits](https://github.com/rlyfreak/CYBERARENA/commits/main/)
 
 ### Связь / Contact
 
